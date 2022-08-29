@@ -1,0 +1,10 @@
+name: Factions
+version: 0.0.1
+main: hu.twinland.Main
+api-version: 1.19
+authors: [PermaFreez]
+description: 'Factions plugin with server specific usecase by.: PermaFreez'
+
+commands:
+   command:
+      description: 'Description'
